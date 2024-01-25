@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DPS310")(type "KiCad")(uri "${KIPRJMOD}/Adafruit DPS310.pretty")(options "")(descr ""))
+  (lib (name "BNO085")(type "KiCad")(uri "${KIPRJMOD}/Adafruit BNO085.pretty")(options "")(descr ""))
+  (lib (name "Stm32F411")(type "KiCad")(uri "${KIPRJMOD}/STM32F411.pretty")(options "")(descr ""))
+)

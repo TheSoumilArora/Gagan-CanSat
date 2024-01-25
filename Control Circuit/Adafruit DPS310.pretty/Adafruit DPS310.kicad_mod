@@ -1,4 +1,4 @@
-(footprint "breakout" (version 20221018) (generator pcbnew)
+(footprint "Adafruit DPS310" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -358,5 +358,10 @@
         (xy 10.656686 -4.329314)
       )
     )
+  )
+  (model "${KIPRJMOD}/3D Models/Adafruit DPS310.step"
+    (offset (xyz 0.5 -2 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
