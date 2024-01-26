@@ -2833,7 +2833,7 @@
     )
   )
 
-  (footprint "" (layer "F.Cu")
+  (footprint "Adafruit Feather STM32F405 Express:" (layer "F.Cu")
     (tstamp b89c0d15-d46c-4c9b-a664-f80e4c0e2117)
     (at 171.3611 113.8936)
     (fp_text reference "@HOLE1" (at 0 0) (layer "F.SilkS") hide
@@ -2982,7 +2982,7 @@
     )
   )
 
-  (footprint "" (layer "F.Cu")
+  (footprint "Adafruit Feather STM32F405 Express:" (layer "F.Cu")
     (tstamp bf73f095-fccf-4695-a8f0-589bc075f488)
     (at 171.3611 96.1136)
     (fp_text reference "@HOLE0" (at 0 0) (layer "F.SilkS") hide
@@ -5758,6 +5758,11 @@
       (net 1 "GND") (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp 8403740f-757e-4ae6-b844-5182dfa1cb07))
     (pad "MT2" smd rect (at 13.6 -14.44 270) (size 1.4 1.9) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp f2c3089f-ca20-44ae-87bd-d705c1e954e0))
+    (model "${KIPRJMOD}/3dmodels/SD Card.step"
+      (offset (xyz 7 -8.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 -180 -90))
+    )
   )
 
   (footprint "Adafruit Feather STM32F405 Express:TESTPOINT_ROUND_1.5MM" (layer "B.Cu")
