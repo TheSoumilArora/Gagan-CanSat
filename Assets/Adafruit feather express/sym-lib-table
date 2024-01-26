@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Adafruit Feather STM32F405 Express-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit Feather STM32F405 Express-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit Feather STM32F405 Express")(type "KiCad")(uri "${KIPRJMOD}/Adafruit Feather STM32F405 Express.kicad_sym")(options "")(descr ""))
+)
