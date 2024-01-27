@@ -1,4 +1,4 @@
-22644940530053632
+22646646852403588
 18650 Cell Holder
 18560 holder
 
@@ -53108,6 +53108,13 @@ Adafruit DPS310
 0
 11
 8
+Digi XBee
+Digi XBee
+
+
+0
+20
+20
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
