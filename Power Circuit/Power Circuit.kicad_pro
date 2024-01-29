@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Power Circuit.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

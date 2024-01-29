@@ -1,4 +1,4 @@
-22646646852403588
+22648353473230378
 18650 Cell Holder
 18560 holder
 
@@ -363,6 +363,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Boost Converter
+TPS61087 Breakout
+
+
+0
+9
+4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf

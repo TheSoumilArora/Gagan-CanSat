@@ -4,4 +4,5 @@
   (lib (name "Adafruit BNO085")(type "KiCad")(uri "${KIPRJMOD}/Adafruit BNO085.kicad_sym")(options "")(descr ""))
   (lib (name "Adafruit STM32F405")(type "KiCad")(uri "${KIPRJMOD}/Adafruit Feather STM32F405 Express.kicad_sym")(options "")(descr ""))
   (lib (name "18650 Cell holder")(type "KiCad")(uri "${KIPRJMOD}/18650 holder.kicad_sym")(options "")(descr ""))
+  (lib (name "Boost Converter")(type "KiCad")(uri "${KIPRJMOD}/Boost Converter.kicad_sym")(options "")(descr ""))
 )
